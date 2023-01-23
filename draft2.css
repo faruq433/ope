@@ -1,0 +1,660 @@
+table{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    background-color: yellow;
+    border-collapse: collapse;
+}
+tr,td{
+    border: 1px solid black;
+}
+.circle1{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleA{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+
+
+.circle2{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleB{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle3{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleC{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle4{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleD{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle5{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleE{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle6{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleF{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle7{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleG{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle8{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleH{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle9{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleI{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle10{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleJ{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circleK{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle11{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circle12{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleL{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circleM{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle13{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circle14{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleN{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circleO{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle15{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circle16{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleP{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circleQ{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle17{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circle18{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleR{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circleS{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle19{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circle20{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color: green;
+}
+.circleT{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color: green;
+}
+.circle0{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleU{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle01{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleV{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circleW{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle02{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circle03{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleX{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circleY{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle04{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circle05{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleZ{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle06{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleXX{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circleAA{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle07{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleQQ{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle08{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circle09{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleSS{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circleWW{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle011{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circle022{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleEE{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circleHH{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle033{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circle044{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleLL{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circleTT{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle055{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circle066{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleGG{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circleCC{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle077{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circle088{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleRR{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circleFF{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.circle099{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circle021{
+    width: 40px;
+    height: 40px;
+border: 3px solid black;
+border-radius: 100%;
+background-color:blue;
+}
+.circleUU{
+    width: 30px;
+    height: 30px;
+border: 3px solid black;
+border-radius: 100%;
+margin-left: 2px;
+margin-top: 2px;
+background-color:blue;
+}
+.max{
+    height:40px;
+    width: 40px;
+}
+.lone{
+    height: 40px;
+    width: 40px;
+}
